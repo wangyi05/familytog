@@ -1,0 +1,3 @@
+export const FETCH_MEMBER = 'FETCH_MEMBER';
+export const RECEIVE_MEMBER = 'RECEIVE_MEMBER';
+
