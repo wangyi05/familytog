@@ -1,13 +1,13 @@
 {
   "name": "node_react_project",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
     "hotstart": "webpack-dev-server --hot"
   },
-"repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/wangyi05/familytog.git"
   },
